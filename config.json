@@ -1,0 +1,13 @@
+{
+  "production": false,
+  "API": "https://laipdemobile.net/all-mobile-flanders",
+  "API_REPORTES": "https://laipdemobile.net/all-mobile-reportes",
+  "API_PUSHSENDER": "https://apim.dev.abinbev-las.com/abi-api-pushsender-dev",
+  "country": "AR",
+  "basehref": "/ventas/",
+  "tagManagerID": "GTM-KJCMF92",
+  "serviceWorkerScript": "dev-sw.js",
+  "webSocketUrl": "https://vmas-api-tst.dev.abinbev-las.com",
+  "authenticador": "https://autenticador-sso.dev.abinbev-las.com",
+  "frontUrl": "http://localhost:4200/ventas/#/login/completarLoginSso"
+}
